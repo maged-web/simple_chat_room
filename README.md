@@ -1,2 +1,2 @@
 # simple_chat_room
-chat room with node js
+chat room with socket and node js
